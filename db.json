@@ -1,6 +1,12 @@
 {
 	"topics":[
+		{
 			"content": "冷やし中華始めました。",
-			"link": ""
+			"link": "./cold-ramen"
+		},
+		{
+			"content": "マリトッツォあります。",
+			"link": "./new"
+		}
 	]
 }
